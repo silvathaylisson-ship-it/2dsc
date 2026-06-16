@@ -44,3 +44,20 @@ estoque.forEach(function(qtd, indice) {
         console.log(`Produto ${indice}: Repor produto! (quantidade: ${qtd})`);
     }
 });
+
+let marcas = ["Fiate" , "Ford" , "VolksWagen"];
+for(let i =0 ; i < marcas.length; i++){
+console.log("indice" , i, marcas[i])
+
+}
+marcas.fortEach(funcion(X,item){
+console.log("indice", item,x)
+})
+ let ponto = [10,20,30];
+let total = 0;
+  ponto
+
+
+
+
+
